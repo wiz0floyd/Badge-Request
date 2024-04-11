@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_sonxt_badge.admin</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_snc_sonxt_badge.admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>adam.celli</sys_created_by>
+        <sys_created_on>2024-04-11 18:46:25</sys_created_on>
+        <sys_id>31f6eb7893a1061078f37ed548373c24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_sonxt_badge.admin</sys_name>
+        <sys_package display_value="Badge Requests" source="x_snc_sonxt_badge">abd6e37893a1061078f37ed548373c2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Badge Requests">abd6e37893a1061078f37ed548373c2c</sys_scope>
+        <sys_update_name>sys_user_role_31f6eb7893a1061078f37ed548373c24</sys_update_name>
+        <sys_updated_by>adam.celli</sys_updated_by>
+        <sys_updated_on>2024-04-11 18:46:25</sys_updated_on>
+    </sys_user_role>
+</record_update>

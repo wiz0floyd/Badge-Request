@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2919ab7093e1061078f37ed548373cd7" extends="task" label="Badge Request" max_length="40" name="x_snc_sonxt_badge_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Access Level" max_length="40" name="access_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="High Security" value="high_security"/>
+                <element inactive_on_update="false" label="Office" value="office"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Home Office" max_length="32" name="home_office" reference="cmn_location" type="reference"/>
+    </element>
+</database>

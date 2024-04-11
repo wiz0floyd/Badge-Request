@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">1137aa0821200210d0ad43346a464a29</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>adam.celli</sys_created_by>
+        <sys_created_on>2024-04-11 18:55:41</sys_created_on>
+        <sys_id>fd192f7093e1061078f37ed548373cd7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Badge Requests" source="x_snc_sonxt_badge">abd6e37893a1061078f37ed548373c2c</sys_package>
+        <sys_updated_by>adam.celli</sys_updated_by>
+        <sys_updated_on>2024-04-11 18:55:41</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
